@@ -34,7 +34,7 @@ public class SychronizationTest {
 				total.inc();
 
 			}
-			sum = total.getCount() + 1;
+			sum = total.getCount();
 
 		}
 	}
